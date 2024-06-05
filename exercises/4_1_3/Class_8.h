@@ -10,10 +10,10 @@ using namespace std;
 class Class_8: public Class_6, public Class_7
 {
 private:
-  string name;
+	string name;
 public:
-  Class_8(string s);
-  string get();
+	Class_8(string s);
+	string get();
 };
 
 #endif

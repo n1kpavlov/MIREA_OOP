@@ -10,10 +10,10 @@ using namespace std;
 class Obj_2: private Obj_1
 {
 private:
-  string name;
+	string name;
 	int number;
 public:
-  Obj_2(string name, int number);
+	Obj_2(string name, int number);
 	void output();
 };
 

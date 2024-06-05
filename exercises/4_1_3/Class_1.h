@@ -13,3 +13,5 @@ public:
 	Class_1(string s);
 	string get();
 };
+
+#endif

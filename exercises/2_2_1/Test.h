@@ -7,7 +7,7 @@ using namespace std;
 class Test
 {
 private:
-  int close;
+	int close;
 	void hide();
 public:
 	int open;

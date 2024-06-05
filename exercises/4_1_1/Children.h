@@ -8,9 +8,9 @@ using namespace std;
 class Children: public Parent
 {
 private:
-  int close;
+	int close;
 public:
-  int open;
+	int open;
 	Children(int x, int y);
 	void set(int x, int y);
 	void output();

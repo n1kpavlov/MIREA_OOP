@@ -4,7 +4,7 @@
 
 class Cl_child : public Cl_base//наследование класса
 {
-  public:
+public:
   Cl_child(Cl_base*, string);//параметризированный конструктор
 };
 

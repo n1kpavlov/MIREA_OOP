@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "Cl_application.h"
+
 int main()
 {
 	Cl_application ob_cl_application(nullptr);//создание объекта приложения
